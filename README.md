@@ -1,6 +1,6 @@
 # PikoKeyBeta
 
-- MIDIキーボード PikoKey 組み立てキットの情報ページです。
+- MIDIキーボード PikoKey β版 組み立てキットの情報ページです。
 
 - 後日更新予定
 
