@@ -36,4 +36,8 @@
 
 ## 部品配置図
 
+![PartsPlacementChart](/image/PikoKeyBeta_buhin_haichi.PNG)
+![PartsPlacementImage](/image/IMG_5642.JPG)
+
+
 ## 修正点
