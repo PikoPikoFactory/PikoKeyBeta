@@ -5,8 +5,6 @@
 
 - 随時更新中
 
-回路図とパターン図を追加しました。
-
 - Arduino Nano Everyは別売ですので、別途入手しておいてください。
 
 ## Parts List
@@ -24,9 +22,17 @@
 | SW18 | 1 | スライドスイッチ | 
 | U1 | 1 | Arduino Nano Every(別売) | 
 | U2 | 1 | 5V出力昇圧DC/DCコンバーターキット | 
-| | 1	| 基板| 
-| | 3	| スペーサー| 
-| | 3 | 	ネジ| 
+| - | 1	| 基板| 
+| - | 3	| スペーサー| 
+| - | 3 | 	ネジ| 
+
+## 回路図
+
+[Schematics](/Hardware/PikoKeyBeta_schematic.pdf)
+
+## 基板パターン図
+
+[PCB Pattern](/Hardware/PikoKeyBeta_patten.pdf)
 
 ## 部品配置図
 
