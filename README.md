@@ -36,7 +36,7 @@
 
 ## 部品配置図
 
-![PartsPlacementChart](/image/PikoKeyBeta_buhin_haichi.PNG)
+![PartsPlacementChart](/image/PikoKeyBeta_parts_place.PNG)
 ![PartsPlacementImage](/image/IMG_5642.JPG)
 
 ## 部品実装上の注意
