@@ -40,7 +40,39 @@
 ![PartsPlacementImage](/image/IMG_5642.JPG)
 
 ## 部品実装上の注意
+### ダイオード
+- ダイオードは極性があります。方向に注意してください。
+- D5は線が付いている方向がカソード(K)です。
+
+![PartsPlacementImage](/image/IMG_5644.JPG)
+
+
+- LED(D1～D4)はリード線の短い方がカソード(K)です。以下の図を参考にしてください。
+
+![PartsPlacementImage](/image/diode.PNG)
+
+### U1 Arduino Nano Every
+
+- U1 Arduino Nano Every はUSBコネクタが外側になるように取り付けてください。部品配置図を参考にしてください。
+
+### U2 5V出力昇圧DC/DCコンバーターキット
+
+- U2 5V出力昇圧DC/DCコンバーターキットは以下の写真の方向で取り付けてください。
+
+
+![PartsPlacementImage](/image/IMG_5643.JPG)
+
+
 
 
 
 ## 修正点
+
+- 追加で抵抗(100Ω)を以下の図に従って取り付けてください。100Ω抵抗は一部のキットでは付属していない場合がありますので、お手持ちのものをお使いいただくか、ご希望の場合はお手数ですが @PikoPiko_F までご連絡ください。送付対応させていただきます。この抵抗を取り付けない場合、一番低いキー（SW1）の打鍵情報が取得できません。
+
+![PartsPlacementImage](/image/IMG_5645.JPG)
+![PartsPlacementImage](/image/IMG_5646.JPG)
+
+# ソフトウェア
+
+
