@@ -77,5 +77,5 @@
 - Arduino Nano Every用です。
 - 鍵盤を押すと、相当するNote on/offをMIDI outから送出します。チャンネルは1です。SW16,17,18の機能はまだインプリしていません。SW16,17でオクターブアップ、ダウン、SW18+鍵盤キーのコンビネーションでMIDI CH変更と、プログラムチェンジの送出を行う予定で、近日中にアップデート予定です。
 
-[Code](/Software/PikoKey.ino)
+[Code/Software/PikoKey.ino](/Software/PikoKey.ino)
 
