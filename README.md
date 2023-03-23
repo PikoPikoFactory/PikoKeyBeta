@@ -39,5 +39,8 @@
 ![PartsPlacementChart](/image/PikoKeyBeta_buhin_haichi.PNG)
 ![PartsPlacementImage](/image/IMG_5642.JPG)
 
+## 部品実装上の注意
+
+
 
 ## 修正点
