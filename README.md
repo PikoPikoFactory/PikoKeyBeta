@@ -81,5 +81,5 @@
 ### サンプルコード
 - Arduino Nano Every用です。
 
-- [Code](/Software/PikoKey.ino)
+[Code](/Software/PikoKey.ino)
 
