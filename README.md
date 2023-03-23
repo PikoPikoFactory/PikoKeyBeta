@@ -73,6 +73,14 @@
 ![PartsPlacementImage](/image/IMG_5645.JPG)
 ![PartsPlacementImage](/image/IMG_5646.JPG)
 
-# ソフトウェア
 
+## ソフトウェア
+- Arduino IDEベースです。
+- MIDIライブラリが必要です。MIDIライブラリは多種リリースされていますが、https://github.com/FortySevenEffects/arduino_midi_library を使用しています。
 
+### サンプルコード
+- Arduino Nano Every用です。
+
+[Code](/Software/PikoKey.ino)
+- 
+- 
